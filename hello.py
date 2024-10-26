@@ -1,4 +1,6 @@
 def reverse(str):
-    print(str[:-1])
+    print(str[::-1])
 
-str="shashank"
+str="gowda"
+reverse(str)
+print("heeloo")
